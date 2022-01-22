@@ -1,0 +1,71 @@
+body{
+  background:linear-gradient(to left,#CEE5D0,#F3F0D7,#FED2AA,#FFBF86);
+
+}
+.main ul{
+  padding: 25px:
+  position:absolute;
+  text-align: right;
+}
+.main ul li {
+  display :inline-block;
+  margin:0 20px;
+
+}
+.main ul li a{
+  font-size: 20px;
+  text-decoration: none;
+  color:black;
+}
+.about img{
+  width:200px;
+  height:250px;
+  padding-left: 620px;
+}
+.about h1 {
+  font-style: italic;
+  text-align: center;
+}
+.contact h1{
+  font-style: italic;
+  text-align: center;
+  font-size: 50px;
+}
+.contact p{
+  font-style: italic;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+.contact{
+  padding-top: 50px;
+}
+.contact a{
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+}
+.skills{
+  text-align: center;
+
+}
+.skills p{
+  font-size: 25px;
+}
+.links{
+  text-align: center;
+}
+.skills a{
+  padding-right: 1500px;
+  font-size: 20px;
+}
+.links button{
+  background-color: white;
+  font-size: 20px;
+  border-radius: 50px;
+
+}
+.main img {
+  width: 1500px;
+  height:650px;
+}
